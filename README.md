@@ -24,7 +24,14 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-gray?logo=javascript&logoColor=white) |
 
 
+| **Data Visualization**    | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?logo=matplotlib&logoColor=white)                                                                                                                                                                                                |
+| **Backend as a Service** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white) |
 
+
+
+ ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
+
+  ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 -->
 
 
@@ -36,15 +43,14 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ... eryashtripathi@gmail.com
 
-- ## SKILLS:
+## SKILLS:
 
 | Category               | Skills and Icons                                                                                                                                                                                                                                                                                 |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
-
-| **Database**              | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-| **Tool**          | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)  | ![Robot(https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Frobotframework?logoColor=yellow&label=robotframework)
+| **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+                                                                                                                 |
+| **AI/ML Technologies**   | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?logo=robot-framework&logoColor=white) |
+| **Databases**            | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)                                                                                                                          |
 
 
 
