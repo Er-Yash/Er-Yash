@@ -35,14 +35,15 @@ Here are some ideas to get you started:
  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
 
   ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat&label=Profile+views)
 -->
 
 
 # & an AI/ML enthusiast 🤖
 
-![Gentleman Coding GIF](https://media.giphy.com/media/YOUR_GIF_URL/giphy.gif)
+![Gentleman Coding GIF](https://your-gentleman-coding-gif-url.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat&label=Profile+views)
+
 
 ---
 
