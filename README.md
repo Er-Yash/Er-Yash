@@ -36,21 +36,25 @@ Here are some ideas to get you started:
 
   ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
   ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat&label=Profile+views)
--->
 
 
-# & an AI/ML enthusiast 🤖
+  # & an AI/ML enthusiast 🤖
 
-![Gentleman Coding GIF](https://your-gentleman-coding-gif-url.com)
+![Gentleman Coding GIF]()
 
 
 
 ---
 
+
+
+
+-->
+
+
+
+
 ## ABOUT ME !!
-
- 
-
 
 
 - 🔭 I’m currently working on ... Nokia as Project Intern
