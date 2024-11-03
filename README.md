@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 -->
 
-![Gif](https://giphy.com/gifs/DronaHQ-automation-nocode-lowcode-i1JHRZSXO9LZZDHqii)
 
 
 ## ABOUT ME !!
@@ -85,4 +84,4 @@ Here are some ideas to get you started:
 | **Databases**               | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)                                                                                                                                                                |
 | **Tools**               | ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?logo=robot-framework&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)  ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)   
                                                      
- ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat&label=Profile+views)
+ ![Profile Views](https://komarev.com/ghpvc/?username=Er-Yash&color=blue&style=flat&label=Profile+views)
