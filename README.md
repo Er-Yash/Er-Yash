@@ -6,6 +6,9 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 
+- 👯 I’m looking to collaborate on ...
+
+
 - 💬 Ask me about ...  AI/ML
 
 - 😄 Pronouns: ...
@@ -38,7 +41,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Nokia as Project Intern
 - 🌱 I’m currently learning ... Machine Learning , C++ , Python , Robortframework
-- 👯 I’m looking to collaborate on ...
 
 
 - 📫 How to reach me: ... eryashtripathi@gmail.com
