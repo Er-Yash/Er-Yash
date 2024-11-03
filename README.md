@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ... eryashtripathi@gmail.com
 
+<!--
 ## SKILLS:
 
 | Category               | Skills and Icons                                                                                                                                                                                                                                                                                 |
@@ -52,5 +53,15 @@ Here are some ideas to get you started:
 | **AI/ML Technologies**   | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?logo=robot-framework&logoColor=white) |
 | **Databases**            | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)                                                                                                                          |
 
+-->
+
+
+## SKILLS:
+
+| Category                   | Skills and Icons                                                                                                                                                                                                                                 |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages**   | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)                                                                                 |
+| **AI/ML Technologies**      | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?logo=robot-framework&logoColor=white) |
+| **Databases**               | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)                                                                                                                                                                |
 
 
