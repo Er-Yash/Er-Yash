@@ -38,6 +38,19 @@ Here are some ideas to get you started:
 -->
 
 
+# & an AI/ML enthusiast 🤖
+
+![Gentleman Coding GIF](https://media.giphy.com/media/YOUR_GIF_URL/giphy.gif)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat&label=Profile+views)
+
+---
+
+## ABOUT ME !!
+
+ 
+
+
 
 - 🔭 I’m currently working on ... Nokia as Project Intern
 - 🌱 I’m currently learning ... Machine Learning , C++ , Python , Robortframework
